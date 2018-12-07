@@ -1,0 +1,4 @@
+{{ ansible_managed | comment }}
+
+deb [arch={{ nginx_repo_arch|join(',') }}] http://nginx.org/packages/{{nginx_repo_map_version[nginx_repo_version]|default('')}}{{ nginx_repo_map_os[ansible_distribution] }}/ {{ ansible_distribution_release }} nginx
+#deb-src http://nginx.org/packages/{{nginx_repo_map_version[nginx_repo_version]|default('')}}{{ nginx_repo_map_os[ansible_distribution] }}/ {{ ansible_distribution_release }} nginx

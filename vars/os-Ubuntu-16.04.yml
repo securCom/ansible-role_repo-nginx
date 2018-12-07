@@ -1,0 +1,11 @@
+---
+
+nginx_repo_supported: true
+nginx_repo_key: http://nginx.org/keys/nginx_signing.key
+nginx_repo_arch:
+  - amd64
+  - i386
+  - arm64
+  - pc64el
+nginx_repo_dep:
+  - gnupg

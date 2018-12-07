@@ -1,0 +1,4 @@
+---
+
+nginx_repo_supported: true
+nginx_repo_key: http://nginx.org/keys/nginx_signing.key
