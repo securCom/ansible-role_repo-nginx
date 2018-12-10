@@ -4,7 +4,7 @@ Manage NGING official repositories.
 
 # Requirements
 
-Forr supported systems  see http://nginx.org/en/linux_packages.html. If yhour system is not supported,
+For supported systems  see http://nginx.org/en/linux_packages.html. If yhour system is not supported,
 the role tasks will be skipped.
 
 For supported system by this role, see the `vars/os-<system>` files.
