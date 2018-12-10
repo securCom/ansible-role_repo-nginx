@@ -1,3 +1,7 @@
+[![Build Status](https://www.travis-ci.org/securCom/ansible-role_repo-nginx.svg?branch=master)](https://www.travis-ci.org/securCom/ansible-role_repo-nginx)
+[![GitHub release](https://img.shields.io/github/release/securCom/ansible-role_repo-nginx.svg)](https://github.com/securCom/ansible-role_repo-nginx)
+
+
 # Repo: NGINX
 
 Manage NGING official repositories.
