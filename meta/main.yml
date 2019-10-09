@@ -11,14 +11,17 @@ galaxy_info:
       versions:
         - jessie
         - stretch
+        - buster
     - name: Ubuntu
       versions:
         - xenial
         - bionic
+        - disco
     - name: EL
       versions:
         - 6
         - 7
+        - 8
   galaxy_tags:
     - nginx
     - system
